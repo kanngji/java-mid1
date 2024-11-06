@@ -1,6 +1,6 @@
 package enumeration.ex1;
 
-i
+
 
 public class StringGradeEx1_2 {
     public static void main(String[] args) {
